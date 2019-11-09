@@ -1,0 +1,186 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.6
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.3.6
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 30
+Max Upload Size 	: 2 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 09:28:49 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Inserted WP Form 8
+Inserted WP Form 9
+Imported Customizer Settings {"astra-settings":{"body-font-family":"'PT Sans', sans-serif","body-font-weight":"400","display-site-title":false,"link-color":"#9dca00","site-sidebar-layout":"no-sidebar","single-page-sidebar-layout":"default","single-post-sidebar-layout":"default","archive-post-sidebar-layout":"default","footer-sml-layout":"footer-sml-layout-1","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] |  <a href=\"#\">Credits<\/a>","footer-sml-section-2":"","footer-sml-section-2-credit":"Powered by [site_title]","footer-sml-divider":"0","header-layouts":"header-main-layout-1","header-main-sep":"0","footer-bg-color":"#191a1f","ast-header-retina-logo":"","theme-auto-version":"2.1.2","site-content-layout":"boxed-container","single-page-content-layout":"default","single-post-content-layout":"default","archive-post-content-layout":"default","footer-sml-divider-color":"#fff","footer-adv":"disabled","astra-addon-auto-version":"2.1.2","woocommerce-content-layout":"default","woocommerce-sidebar-layout":"default","shop-grids":{"desktop":3,"tablet":2,"mobile":1},"shop-no-of-products":"9","theme-color":"#9dca00","header-bg-obj":{"background-color":""},"content-bg-obj":{"background-color":"#ffffff"},"above-header-bg-obj":{"background-color":""},"below-header-bg-obj":{"background-color":""},"footer-adv-bg-obj":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"footer-bg-obj":{"background-color":"rgba(25,26,31,0)","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"site-layout-outside-bg-obj":{"background-color":""},"header-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"above-header-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"below-header-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"primary-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-h-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-menu-a-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-h-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"primary-submenu-a-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-link-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-link-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-bg-color":{"desktop":"","tablet":"","mobile":""},"above-header-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-h-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-active-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-bg-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-submenu-active-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-text-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-link-hover-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-link-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-menu-text-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-menu-text-hover-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-menu-bg-hover-color-responsive":{"desktop":"#575757","tablet":"","mobile":""},"below-header-current-menu-text-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"below-header-current-menu-bg-color-responsive":{"desktop":"#575757","tablet":"","mobile":""},"below-header-submenu-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-bg-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"below-header-submenu-active-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"above-header-menu-align":"inline","below-header-menu-align":"inline","primary-menu-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"above-header-menu-bg-obj-responsive":{"desktop":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"}},"mobile-header-toggle-btn-style":"fill","sticky-header-color-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-color-site-tagline-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-bg-color-responsive":{"desktop":"rgba(255,255,255,1)","tablet":"","mobile":""},"sticky-header-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-menu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-header-submenu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-bg-color-responsive":{"desktop":"rgba(65,64,66,1)","tablet":"","mobile":""},"sticky-below-header-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-menu-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"sticky-below-header-menu-h-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"sticky-below-header-menu-h-a-bg-color-responsive":{"desktop":"#575757","tablet":"","mobile":""},"sticky-below-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-below-header-submenu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-bg-color-responsive":{"desktop":"rgba(255,255,255,1)","tablet":"","mobile":""},"sticky-above-header-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-menu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"sticky-above-header-submenu-h-a-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"different-sticky-retina-logo":false,"different-transparent-retina-logo":false,"different-retina-logo":false,"include-headings-in-typography":true,"above-header-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"above-header-submenu-item-border":1,"below-header-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"below-header-submenu-item-border":1,"above-nav-menu-pointer-effect":"none","below-nav-menu-pointer-effect":"none","above-header-submenu-border-color":"#eaeaea","below-header-submenu-container-animation":"","above-header-submenu-container-animation":"","primary-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"primary-submenu-item-border":1,"submenu-below-header":false,"primary-submenu-b-color":"#eaeaea","header-main-submenu-container-animation":"","primary-submenu-item-b-color":"#eaeaea","above-header-submenu-item-b-color":"#eaeaea","body-font-variant":"","transparent-header-enable":0,"font-size-h1":{"desktop":"70","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"40","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"logo-title-inline":0,"wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"_astra_pb_compatibility_completed":true,"headings-font-family":"'Sarala', sans-serif","headings-font-variant":"400,700","headings-font-weight":"700","body-line-height":"1.6","font-size-h4":{"desktop":"23","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-bg-color":"#71b230","button-h-color":"#f7f7f7","button-color":"#f7f7f7","button-v-padding":12,"header-main-rt-section":"none","header-main-rt-section-button-link":"#","header-main-rt-section-button-text":"Schedule Now","button-radius":3,"button-bg-h-color":"#9ec436","font-size-body":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"footer-color":"#f7f7f7","ast-header-responsive-logo-width":{"desktop":"126","tablet":"","mobile":""},"different-mobile-logo":false},"custom-css":"\/*\nYou can add your own CSS here.\n\nClick the help icon above to learn more.\n*\/\n"}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/492/wxr.xml
+Inserted - Term 7 - {"term_id":7,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":7,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 8 - {"term_id":8,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":8,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 9 - {"term_id":9,"name":"Top Navigation","slug":"top-navigation","term_group":0,"term_taxonomy_id":9,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 13 - attachment - Fitness Trainer
+Inserted - Post 23 - attachment - Fitness Trainer
+Inserted - Post 28 - attachment - Training Sessions Background
+Inserted - Post 29 - attachment - Fitness Gallery Slide
+Inserted - Post 30 - attachment - Fitness Gallery Slide
+Inserted - Post 31 - attachment - Fitness Gallery Slide
+Inserted - Post 32 - attachment - Fitness Gallery Slide
+Inserted - Post 33 - attachment - Fitness Gallery Slide
+Inserted - Post 34 - attachment - Fitness Gallery Slide
+Inserted - Post 35 - attachment - Fitness Gallery Slide
+Inserted - Post 43 - attachment - Testimonial
+Inserted - Post 46 - attachment - Footer Background
+Inserted - Post 88 - attachment - Client
+Inserted - Post 89 - attachment - Client
+Inserted - Post 90 - attachment - Client
+Inserted - Post 91 - attachment - Client
+Inserted - Post 92 - attachment - Client
+Inserted - Post 93 - attachment - Awards
+Inserted - Post 94 - attachment - Awards
+Inserted - Post 95 - attachment - Awards
+Inserted - Post 96 - attachment - fitness-site-logo@2x-free-img
+Inserted - Post 100 - attachment - favicon
+Inserted - Post 116 - attachment - Fitness Site Logo
+Inserted - Post 120 - attachment - fitness-trainer-astra-facebook-yoast-free-img
+Inserted - Post 126 - attachment - fitness-site-logo-free-img
+Inserted - Post 129 - attachment - fitness-trainer-hero-bg-free-img.jpg
+Inserted - Post 130 - attachment - about-free-img.jpg
+Inserted - Post 131 - attachment - award-2-free-img.png
+Inserted - Post 132 - attachment - award-3-free-img.png
+Inserted - Post 133 - attachment - award-1-free-img.png
+Inserted - Post 134 - attachment - training-bg-free-img.jpg
+Inserted - Post 135 - attachment - slide-1-free-img.jpg
+Inserted - Post 136 - attachment - slide-2-free-img.jpg
+Inserted - Post 137 - attachment - slide-3-free-img.jpg
+Inserted - Post 138 - attachment - slide-4-free-img.jpg
+Inserted - Post 139 - attachment - slide-5-free-img.jpg
+Inserted - Post 140 - attachment - slide-6-free-img.jpg
+Inserted - Post 152 - attachment - slide-6-free-img.jpg
+Inserted - Post 153 - attachment - slide-7-free-img.jpg
+Inserted - Post 154 - attachment - client-1-free-img.jpg
+Inserted - Post 155 - attachment - client-2-free-img.jpg
+Inserted - Post 156 - attachment - client-3-free-img.jpg
+Inserted - Post 157 - attachment - client-4-free-img.jpg
+Inserted - Post 158 - attachment - client-5-free-img.jpg
+Inserted - Post 159 - attachment - testimonial-bg-free-img.jpg
+Inserted - Post 160 - attachment - footer-bg-free-img.jpg
+Inserted - Post 320 - attachment - banner09-free-img
+Inserted - Post 323 - attachment - nutrition03-free-img
+Inserted - Post 328 - attachment - nutrition04-free-img
+Inserted - Post 334 - attachment - banner10-free-img
+Inserted - Post 394 - attachment - banner13-free-img
+Inserted - Post 413 - attachment - signature
+Inserted - Post 482 - attachment - service2-free-img
+Inserted - Post 483 - attachment - service1-free-img
+Inserted - Post 485 - attachment - service3-free-img
+Inserted - Post 488 - attachment - service5-free-img
+Inserted - Post 503 - attachment - blog01-free-imh
+Inserted - Post 506 - attachment - blog03-free-img
+Inserted - Post 507 - attachment - blog02-free-img
+Inserted - Post 516 - attachment - blog01-free-imh
+Inserted - Post 523 - attachment - banner01-free-img
+Inserted - Post 541 - attachment - banner15-free-img
+Inserted - Post 553 - attachment - fruit01-free-img
+Inserted - Post 555 - attachment - nutrition02-free-img
+Inserted - Post 582 - attachment - 06
+Inserted - Post 589 - attachment - nutrition03-free-img
+Inserted - Post 590 - attachment - 07
+Inserted - Post 595 - attachment - nutrition05-free-img
+Inserted - Post 629 - attachment - section03-free-img
+Inserted - Post 651 - attachment - logo07
+Inserted - Post 653 - attachment - nutrition-book-free-img
+Inserted - Post 662 - attachment - nutrition10-free-img
+Inserted - Post 692 - attachment - banner14-free-img
+Inserted - Post 727 - attachment - bg02-free-img
+Inserted - Post 729 - attachment - bg03-free-img
+Inserted - Post 776 - attachment - 1-4.png
+Inserted - Post 779 - attachment - parallax-1.png
+Inserted - Post 852 - attachment - logo2
+Inserted - Post 853 - attachment - logo3
+Inserted - Post 855 - attachment - logo5
+Inserted - Post 858 - attachment - logo7
+Inserted - Post 861 - attachment - service04-free-img
+Inserted - Post 863 - attachment - service05-free-img
+Inserted - Post 872 - attachment - nutrica03-free-img
+Inserted - Post 873 - attachment - nutrica01-free-img
+Inserted - Post 874 - attachment - nutrica02-free-img
+Inserted - Post 878 - attachment - nutrica04-free-img
+Inserted - Post 880 - attachment - nutrica05-free-img
+Inserted - Post 887 - attachment - service01-free-img
+Inserted - Post 928 - attachment - nutrica06
+Inserted - Post 932 - attachment - nutrica07-free-img
+Inserted - Post 939 - attachment - about01-free-img
+Inserted - Post 941 - attachment - about02-free-img
+Inserted - Post 955 - attachment - training01
+Inserted - Post 958 - attachment - smile
+Inserted - Post 963 - attachment - calendar
+Inserted - Post 965 - attachment - waist
+Inserted - Post 1010 - attachment - right-quotes-symbol (2)
+Inserted - Post 1013 - attachment - client01-free-img
+Inserted - Post 1014 - custom_css - astra
+Inserted - Post 52 - custom_css - astra
+Inserted - Post 316 - elementor_library - old-banner
+Inserted - Post 464 - elementor_library - services01
+Inserted - Post 785 - elementor_library - Moving Company > Services
+Inserted - Post 1023 - attachment - client03-free-img
+Inserted - Post 1025 - attachment - client04-free-img
+Inserted - Post 1100 - attachment - nutric01-free-img
+Inserted - Post 1129 - attachment - nutrition-logo
+Inserted - Post 1138 - attachment - leaves (1)
+Inserted - Post 1204 - attachment - bpic03-free-img
+Inserted - Post 1206 - attachment - bpic02-free-img
+Inserted - Post 1211 - attachment - favicon
+Inserted - Post 1212 - post - Can nutrient therapy boost your energy?
+Inserted - Post 1213 - post - Food intolerance testing – is it worth it?
+Inserted - Post 97 - page - Home
+Inserted - Post 141 - page - About
+Inserted - Post 143 - page - Contact
+Inserted - Post 145 - page - Programs
+Inserted - Post 147 - nav_menu_item - 
+Inserted - Post 148 - nav_menu_item - 
+Inserted - Post 149 - nav_menu_item - 
+Inserted - Post 150 - nav_menu_item - 
+Inserted - Post 304 - page - Success Stories
+Inserted - Post 307 - page - Blog
+Inserted - Post 309 - nav_menu_item - 
+Inserted - Post 310 - nav_menu_item - 
+Inserted - Post 510 - post - Maintaining Well-Being Through Stressful Times
+Inserted - Post 800 - elementor-hf - Footer
+Inserted - Post 817 - elementor_library - Law Firm > Services 1
+Inserted - Post 921 - elementor_library - service-last-section
+Inserted - Post 1167 - elementor_library - contact- section
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/nutritionist-02\/wp-content\/uploads\/sites\/492\/2019\/10\/nutrition-logo.svg","nav_menu_locations":{"primary":"top-navigation"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"1200","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"","elementor_disable_typography_schemes":"","elementor_editor_break_lines":"","elementor_exclude_user_roles":[],"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#9dca00","2":"#54595f","3":"#71b230","4":"#9ccc3a","5":"#1e1e1e","6":"#000f2b","7":"#000","8":"#f7f7f7"},"elementor_scheme_typography":{"1":{"font_family":"","font_weight":"600"},"2":{"font_family":"","font_weight":"400"},"3":{"font_family":"","font_weight":"400"},"4":{"font_family":"","font_weight":"500"}},"elementor_space_between_widgets":"","elementor_stretched_section_container":"","elementor_load_fa4_shim":null,"woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'DevotionBay' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 309
+Post ID: 310
+Post ID: 147
+Post ID: 148
+Post ID: 149
+Post ID: 150
+Batch Process Complete!
